@@ -1,0 +1,19 @@
+{
+  "name": "rename-absolute-series",
+  "version": "0.0.1",
+  "description": "rename Tatort episodes from absolute to season names",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "xml2js": "~0.2.8",
+    "eyes": "~0.1.8",
+    "fs-extra": "~0.8.1",
+    "optimist": "~0.6.0",
+    "async": "~0.2.9"
+  },
+  "devDependencies": {}
+}
